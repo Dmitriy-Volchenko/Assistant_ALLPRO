@@ -4,14 +4,6 @@
 
 t.me/ai_assist_allpro_bot
 
-## Скриншоты
-
-![image](https://github.com/user-attachments/assets/ab451b8b-755a-4a28-a67c-4df41f68cdc8)
-![image](https://github.com/Dmitriy-Volchenko/Assistant_ALLPRO/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-03%20114857.png?raw=true
-)
-![image](https://github.com/user-attachments/assets/979a4b1a-dbdf-45fa-b288-c7f50d2a821f)
-
-
 ## Описание проекта
 
 Ассистент Школы сноуборда и горных лыж ALLPRO — это интеллектуальный помощник, разработанный для автоматизации взаимодействия с клиентами, ответов на их вопросы и организации тренировок. Проект использует современные технологии искусственного интеллекта для осмысленного ведения диалога, обработки запросов и интеграции с сервисами, такими как Google Календарь.
@@ -64,6 +56,14 @@ t.me/ai_assist_allpro_bot
 4. **Ассистент:** "Отлично! Время 14:00 в следующую субботу свободно! Для записи мне потребуется ваш номер телефона. Можете его указать?"
 5. **Клиент:** "ХХХ-ХХХ-ХХ-ХХ"
 6. **Ассистент:** "Отлично! Вы успешно записаны на тренировку по сноуборду в следующую субботу, 9 марта, на 14:00. Если у вас появятся вопросы или потребуется помощь, просто дайте знать. Ждём вас на склоне!"
+
+## Скриншоты
+
+![image](https://github.com/user-attachments/assets/ab451b8b-755a-4a28-a67c-4df41f68cdc8)
+![image](https://github.com/Dmitriy-Volchenko/Assistant_ALLPRO/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-03%20114857.png?raw=true
+)
+![image]([https://github.com/user-attachments/assets/979a4b1a-dbdf-45fa-b288-c7f50d2a821f](https://github.com/Dmitriy-Volchenko/Assistant_ALLPRO/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-03%20122701.png?raw=true))
+![image](https://github.com/user-attachments/assets/979a4b1a-dbdf-45fa-b288-c7f50d2a821f)
 
 ## Заключение
 
