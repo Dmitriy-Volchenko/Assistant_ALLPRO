@@ -4,7 +4,7 @@
 
 t.me/ai_assist_allpro_bot
 
-![Иллюстрация к проекту]([![Иллюстрация к проекту](https://example.com/image.png)](https://github.com/Dmitriy-Volchenko/Assistant_ALLPRO/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-03%20114857.jpg?raw=true))
+![Иллюстрация к проекту](https://github.com/Dmitriy-Volchenko/Assistant_ALLPRO/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-03%20114857.jpg?raw=true)
 
 ## Описание проекта
 
